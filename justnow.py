@@ -1,7 +1,6 @@
 from datetime import datetime,timedelta
 
 n = int(input())
-t =  timedelta(minutes=1)
 
 for i in range(n):
 
